@@ -1,2 +1,2 @@
 # htmx-experiments
-Experimenting with HTMX for making simple single-page apps.
+Experimenting with [HTMX](https://htmx.org) for making simple single-page apps.
